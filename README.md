@@ -7,6 +7,7 @@ Primeiro fiz Wireframe do projeto através do Figma e desse modo fazer o protót
 Projeto no Figma: https://www.figma.com/proto/xODwrXBbJ5ywCu6tf9X5zD/Untitled?node-id=0%3A1
 
 Essa primeira imagem demostra a tela inicial do site com as músicas escolhidas por mim. Já a segunda tela mostra a música(vídeo) e sua letra. Quando o usúario na primeira tela clicar na música escolhida, em seguida irá aparecer a segunda tela com a música.
+
 ![image](https://user-images.githubusercontent.com/99990460/157897580-e327643a-1385-42e0-b292-5c211e0822b1.png)
 ![image](https://user-images.githubusercontent.com/99990460/157897894-98a5dd42-6406-4d66-b5c8-7a0c7f0d56d3.png)
 # Layout Final
